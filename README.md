@@ -2,7 +2,7 @@
 
 # 🧾 Expense Tracker (Python, SQLite, CLI)
 
-This is a simple expense tracker built with Python using Object-Oriented Programming (OOP) principles. It stores expenses in a local SQLite database and lets you add and list expenses from the command line.
+This is a simple expense tracker built with Python. It stores expenses in a local SQLite database and lets you add and list expenses from the command line.
 
 ---
 
@@ -12,7 +12,6 @@ This is a simple expense tracker built with Python using Object-Oriented Program
 - List all expenses from the database
 - Stores data locally using SQLite
 - Lightweight CLI tool
-- Written with clean OOP structure, easy to expand
 
 ---
 
